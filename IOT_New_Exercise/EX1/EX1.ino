@@ -27,7 +27,7 @@ void setup() {
   
   // Initialize serial communication
   Serial.begin(9600);  
-  Serial.println("Annamalai University BE CSE 2023");
+  Serial.println("Annamalai University BE CSE 2024");
   Serial.println("Distance Measure Program");
 }
 
