@@ -25,7 +25,7 @@ void setup() {
 
   // Serial Monitor Initialization
   Serial.begin(9600);
-  Serial.println("Annamalai University BE CSE 2023");
+  Serial.println("Annamalai University BE CSE 2024");
   Serial.println("Soil Moisture Program");
 }
 
